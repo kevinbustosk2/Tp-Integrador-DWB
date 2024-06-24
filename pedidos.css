@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(218, 169, 64);
+}
+
+
+form{
+    width: 60%;
+    margin: 30px auto;
+    color: rgb(0, 0, 0);
+
+}
+
+h1{
+    text-shadow: 5px 5px 5px rgb(214, 252, 0);
+    text-align: center;
+    font-weight: 700;
+    color: rgb(0, 5, 70);
+}
+p{
+    font-weight: 600;
+    text-align: center;
+    color: rgb(151, 0, 0);
+
+}
+input{
+    color: rgb(0, 0, 0);
+}
+
+::placeholder{
+    color: rgb(0, 0, 0);
+}
+
+label, input {
+    display: inline-flex;
+    margin-right: 5px;
+}
